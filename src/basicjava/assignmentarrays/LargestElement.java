@@ -12,5 +12,6 @@ public class LargestElement {
             }
         }
         System.out.println(max);
+        System.out.println("This is maximum number from array");
     }
 }
